@@ -1,2 +1,2 @@
 # import_csv
-Import spreadsheet into DB
+Import data into DB from a spreadsheet.
